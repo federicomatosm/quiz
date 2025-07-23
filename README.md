@@ -2,7 +2,8 @@
 
 This is a simple quiz app.
 
-This app was created from the course [a link](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex)
+This app was created from the course [Complete Vue Developer Bootcamp (Pinia, Vitest) by Andrei Neagoie and Luis Ramirez Jr.](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex).
+
 
 ## Recommended IDE Setup
 
