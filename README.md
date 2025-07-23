@@ -1,6 +1,8 @@
 # quiz
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple quiz app.
+
+This app was created from the course [a link](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex)
 
 ## Recommended IDE Setup
 
